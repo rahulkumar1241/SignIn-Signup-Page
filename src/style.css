@@ -1,0 +1,32 @@
+.background
+{
+   background-color:rgb(204, 204, 179);
+   width:50%;
+   margin:auto;
+}
+
+.background2
+{
+    background-color:white; 
+}
+
+
+.border_input
+{
+  border: 0%;
+  padding:25px;
+}
+
+.button_info
+{
+  padding: 15px;
+   margin:20px;
+   width:120px;
+   border-radius: 0%;
+}
+
+.link_info
+{
+   padding: 20px;
+    font-size: 130%;
+}
